@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Satisfy');
+
+body{
+
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+nav{
+  min-height: 30vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.lien-02 video {
+ padding-top: 2em;
+ width: 800px;
+ margin: auto;
+ display: block;
+ clear: both;
+
+
+
+
+}
+
+
+
+.title-01{
+  color:#Ffffff;
+  font-size: 48px;
+  text-align: center;
+}
+
+li {
+
+  font-family: 'Satisfy', cursive;
+  font-size: 36px;
+  color: #ffffff;
+  text-align: left;
+
+}
+
+
+a{
+color:  #ffffff;
+}
